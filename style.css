@@ -1,0 +1,107 @@
+html {
+    background-color: #212121;
+}
+
+h1 {
+    color: #6CDE5F;
+    margin: 60px 0px 40px 0px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+
+h2 {
+    text-align: center;
+    color: #A0DE99;
+    font-family: Helvetica, sans-serif;
+    font-size: 2em;
+    margin: 40px 0px 20px 0px;
+}
+
+h3 {
+    text-align: center;
+    color: #D1D1D1;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+p {
+    text-align: center;
+    color: #D1D1D1;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1em;
+}
+
+.space {
+    margin-bottom: 40px;
+}
+
+.pMarg {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#email {
+    height: 45px;
+    width: 250px;
+    text-align: center;
+    background-color: #6887AD;
+    border: 3px solid white;
+    border-radius: 6px;
+    margin: auto;
+}
+
+#emailLink {
+    text-decoration: none;
+}
+
+#emailText {
+    font-weight: normal;
+    font-size:1.25em;
+    color: #FFFFFF;
+    margin: 10px 0px 0px 0px;
+}
+
+#container {
+    margin: auto;
+    margin-bottom: 30px;
+    width: 702px;
+    height: 180px;
+}
+
+.circle {
+    display: inline-block;
+    background-color: black;
+    
+    border-radius: 100%;
+    border: 5px solid #6887AD;
+    
+    width: 150px;
+    height: 150px;
+    
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.cim {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+#fb {
+    margin: auto;
+    width: 305px;
+}
+
+#twttr {
+    width: 520px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+
